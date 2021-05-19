@@ -1,2 +1,0 @@
-DayCalcTest/DayCalcTest.java
- DayCalcTest.DayCalcTest
